@@ -3,4 +3,8 @@
 
 No U
 Connell Oliver
-![](disgusted.jpg)
+
+![](images/disgusted.jpg)
+
+##blog post
+[continue reading](blog)
