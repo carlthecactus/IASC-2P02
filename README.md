@@ -1,10 +1,10 @@
 # IASC-2P02
-##hello world
+Solving Problems through IASC
 
-No U
-Connell Oliver
+Hi, My name is Connell Oliver and this Is My github page.
+I am a student at ↓
 
-![](images/disgusted.jpg)
+![](images/f13916da-192a-4d6e-aee8-3a3aa8353428.png)
 
 ##blog post
-[continue reading](blog)
+[continue reading](blog.txt)
