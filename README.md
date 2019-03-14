@@ -9,4 +9,4 @@ I am a student at ↓
 blog post
 
 An academic post about the ethics of reusing research data.
-[continue reading](blog.txt)
+[continue reading](blog.md)
