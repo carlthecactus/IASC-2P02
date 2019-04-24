@@ -34,4 +34,4 @@ Deliverable 3: this is a commit for the initial creation of the project file as 
 
 ## Academic blog
 
-to see my academic blog click [here](blog.md)
+to see my academic blog click [here](https://carlthecactus.github.io/IASC-2P02/blog)
